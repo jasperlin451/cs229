@@ -1,0 +1,2 @@
+Trial 1 (12 Trees):
+score, oppscore, ast, to, blk, foul, w/L

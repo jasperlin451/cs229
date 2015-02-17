@@ -1,0 +1,7 @@
+Trial 1 6.48858520655
+0:score, 3:fga, 9:drb, 10:ast, 12:to, 15:W/L, 16:recent W/L
+8:orb, 1:oppscore, 6:tpm, 14:foul, 13:blk, 4:ftm, 5:fta, 7:tpa, 11:stl, 2:fgm
+
+Trial 2 6.49352424118
+0:score, 3:fga, 9:drb, 10:ast, 12:to, 15:W/L, 16:recent W/L
+8:orb, 14:foul, 1:oppscore, 5:fta, 7:tpa, 13:blk, 4:ftm, 6:tpm, 11:stl, 2:fgm
